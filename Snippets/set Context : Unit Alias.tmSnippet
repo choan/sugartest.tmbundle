@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>set${1:C}${1/(U)|(C)|.*/(?1:nit)(?2:ontext)/}Alias('${2:$TM_SELECTED_TEXT}'${3:, '${4:%${1/(U)|(C)|.*/(?1:context)(?2:prefix)/} $2 %${1/(U)|(C)|.*/(?1:example)(?2:context)/}}'})</string>
+	<key>name</key>
+	<string>set Context / Unit Alias</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>ali</string>
+	<key>uuid</key>
+	<string>E476AE91-CEA2-4E75-AD2D-B7FE6B72828E</string>
+</dict>
+</plist>

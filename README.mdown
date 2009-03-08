@@ -1,0 +1,23 @@
+# SugarTest TextMate Bundle
+
+Some simple snippets to write [SugarTest](http://sugartest.scriptia.net) javascript tests on TextMate.
+
+* `st<tab>` writes "SugarTest"
+* `SugarTest<tab>` creates the test skeleton
+* `co<tab>` writes contexts with "context" and "should"
+* `de<tab>` writes contexts with "describe" and "it"
+* `sh<tab>` writes units with "should"
+* `it<tab>` writes units with "it"
+* `ali<tab>` writes the `setWhateverAlias` call for you
+* `jst<tab>` inserts
+  * the `script` tags needed to use SugarTest (referencing both jsunittest.js and jshoulda.js)
+  * or the `div#id=testlog` needed by the JsUnitTest logger
+* `uni<tab>` writes a call to `unifyRunners`.
+
+## A better experience
+
+Combine with the [JavaScript Unit Testing TextMate bundle](http://github.com/drnic/javascript-unittest-tmbundle/tree/master) to obtain complete happiness.
+
+## Is it fast?
+
+Yes, but we still have no video to show you.

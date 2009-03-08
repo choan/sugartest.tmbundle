@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>.describe('${1:context name}')${7:
+  .before(function(data) {
+    $8
+  \})}
+  .it('${10:example name}', function(data) {
+    $0
+  })
+.end()</string>
+	<key>name</key>
+	<string>describe</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>de</string>
+	<key>uuid</key>
+	<string>48BE0973-4F71-46D2-953D-6224E2E064BC</string>
+</dict>
+</plist>

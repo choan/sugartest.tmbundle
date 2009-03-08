@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>SugarTest(${1:${2:'${3:base name}', }${4:{ testLog : '${5:testlog}'$6 \}}})${7:
+  .before(function(data) {
+    $8
+  \})}
+  .describe('${9:context name}')
+    .it('${10:example name}', function(data) {
+      $0
+    })
+  .end()
+.run();
+</string>
+	<key>name</key>
+	<string>SugarTest()</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>SugarTest</string>
+	<key>uuid</key>
+	<string>9D98A329-631C-4085-9F2A-D5AAE4E255EB</string>
+</dict>
+</plist>

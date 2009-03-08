@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>SugarTest</string>
+	<key>ordering</key>
+	<array>
+		<string>E6ABF6A3-BCE4-41DA-AE8F-67493228C8BD</string>
+		<string>9D98A329-631C-4085-9F2A-D5AAE4E255EB</string>
+		<string>48BE0973-4F71-46D2-953D-6224E2E064BC</string>
+		<string>5045A679-5BDF-4102-A29F-E5EFDE62933E</string>
+		<string>D71EA95C-91BB-4188-B569-BCB13FEC7E95</string>
+		<string>08DA1354-32E7-4E47-9BF7-FCA9A7D808D5</string>
+		<string>E476AE91-CEA2-4E75-AD2D-B7FE6B72828E</string>
+		<string>5A699A36-2F41-47A8-BDCD-BC5E7C471E04</string>
+		<string>1712204B-895B-443D-BED8-2DCC340B3B5A</string>
+		<string>5B3795E0-622E-4E37-8CE7-D1602EDCDD65</string>
+	</array>
+	<key>uuid</key>
+	<string>D0DF5507-DF0D-4744-93EF-EDD82438FFB4</string>
+</dict>
+</plist>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;script src="${1:${TM_JSUNITTEST_PATH:http://localhost/jsunittest/assets}}/jsunittest.js" type="text/javascript"&gt;&lt;/script&gt;
+${2:&lt;script src="$1/sugar_test.js" type="text/javascript"&gt;&lt;/script&gt;
+}&lt;link rel="stylesheet" href="$1/unittest.css" type="text/css" media="screen" /&gt;
+$0</string>
+	<key>name</key>
+	<string>Insert references to JsUnitTest</string>
+	<key>scope</key>
+	<string>text.html </string>
+	<key>tabTrigger</key>
+	<string>jst</string>
+	<key>uuid</key>
+	<string>1712204B-895B-443D-BED8-2DCC340B3B5A</string>
+</dict>
+</plist>
