@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>.context('${1:context name}')${7:
+	<string>`put_dot.rb`context('${1:context name}')${7:
   .before(function(data) {
     $8
   \})}

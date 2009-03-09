@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>should('${10:example name}', function(data) {
+	<string>`put_dot.rb`should('${10:example name}', function(data) {
   $0
 })</string>
 	<key>name</key>
@@ -11,7 +11,7 @@
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>
-	<string>it</string>
+	<string>sh</string>
 	<key>uuid</key>
 	<string>08DA1354-32E7-4E47-9BF7-FCA9A7D808D5</string>
 </dict>

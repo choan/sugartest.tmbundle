@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>unifyRunners(false)</string>
+	<string>`put_dot.rb`unifyRunners(false)</string>
 	<key>name</key>
 	<string>unifyRunners</string>
 	<key>scope</key>
