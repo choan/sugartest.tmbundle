@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>`put_dot.rb`should('${10:example name}', function(data) {
+	<string>`put_dot`should('${10:example name}', function(data) {
   $0
 })</string>
 	<key>name</key>

@@ -1,0 +1,10 @@
+#!/bin/bash
+x=$TM_CURRENT_LINE
+p=$TM_LINE_INDEX
+d=${x:p-1:1}
+if echo "$d" | grep -q "\."
+then
+  echo ''
+else
+  echo '.'
+fi

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>`put_dot.rb`set${1:C}${1/(U)|(C)|.*/(?1:nit)(?2:ontext)/}Alias('${2:$TM_SELECTED_TEXT}'${3:, '${4:%${1/(U)|(C)|.*/(?1:context)(?2:prefix)/} $2 %${1/(U)|(C)|.*/(?1:example)(?2:context)/}}'})</string>
+	<string>`put_dot`set${1:C}${1/(U)|(C)|.*/(?1:nit)(?2:ontext)/}Alias('${2:$TM_SELECTED_TEXT}'${3:, '${4:%${1/(U)|(C)|.*/(?1:context)(?2:prefix)/} $2 %${1/(U)|(C)|.*/(?1:example)(?2:context)/}}'})</string>
 	<key>name</key>
 	<string>set Context / Unit Alias</string>
 	<key>scope</key>
